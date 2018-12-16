@@ -1,2 +1,11 @@
 # LearnComputer
-Leraning^-^
+Learn computer system!
+
+
+
+参考书籍：
+
+1. 计算机是怎样跑起来的
+2. 程序是怎样跑起来的
+3. 计算机科学概论
+4. 计算机科学导论
