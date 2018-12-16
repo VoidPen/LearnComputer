@@ -1,7 +1,7 @@
 # LearnComputer
 Learn computer system!
 
-
+[计算机科学导论](./notes/计算机导论.md)
 
 参考书籍：
 
