@@ -1,7 +1,15 @@
 # LearnComputer
 Learn computer system!
 
-[计算机科学导论](./notes/计算机导论.md)
+# 计算机基础
+
+[计算机是怎么跑起来的](./notes/计算机是怎么跑起来的-笔记.md)
+
+[计算机科学导论](./notes/计算机科学导论-笔记.md)
+
+# 编程语言
+
+[Python笔记](./notes/Python笔记.md)
 
 参考书籍：
 
