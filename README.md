@@ -7,6 +7,8 @@ Learn computer system!
 
 [计算机科学导论](./notes/计算机科学导论-笔记.md)
 
+[编码-隐藏在计算机软硬件背后的语言](./notes/编码-隐藏在计算机软硬件背后的语言-笔记.md)
+
 # 编程语言
 
 [Python笔记](./notes/Python笔记.md)
