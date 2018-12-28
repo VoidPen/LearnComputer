@@ -9,6 +9,12 @@ Learn computer system!
 
 [编码-隐藏在计算机软硬件背后的语言](./notes/编码-隐藏在计算机软硬件背后的语言-笔记.md)
 
+[程序是怎样跑起来的](./notes/程序是怎样跑起来的.md)
+
+
+
+
+
 # 编程语言
 
 [Python笔记](./notes/Python笔记.md)
